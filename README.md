@@ -3,6 +3,11 @@
 conda env create -f environment.yml
 ```
 
+# Dataset
+Source: [kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)
+
+Move the csv files into `data` folder
+
 # Feature Descriptions for Sephora Dataset
 ## Product Details
 - product_id – Unique identifier for the product from the site.
